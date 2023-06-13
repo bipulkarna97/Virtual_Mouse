@@ -3,11 +3,13 @@ An AI-based application which let us control the mouse cursor by moving finger i
 
  ![final](https://user-images.githubusercontent.com/78357575/123516002-93aed580-d6b7-11eb-835b-ac7b284850d5.jpg)
 
+<br>
 
 ## About the Project:
 - The goal is to manage computers and others devices with gestures rather than pointing and clicking a mouse or touching a display directly.
 - In this project we use a approach that uses a video device to control the mouse system (Mouse Task).
 
+<br>
 
 ## Tech Stacks:
 - OpenCV (for image processing and drawing)
@@ -15,6 +17,7 @@ An AI-based application which let us control the mouse cursor by moving finger i
 - PyAutoGui (for controlling mouse movement and click)
 - Numpy
 
+<br>
 
 ## Prerequisites:
 - Install python version 3.7 or more
@@ -23,6 +26,7 @@ An AI-based application which let us control the mouse cursor by moving finger i
 pip install <module name>
 ```
 
+<br>
 
 ## Hardware and Software Requirements:
 1. Webcam:
@@ -35,6 +39,7 @@ pip install <module name>
 
    - **AutoPy:** AutoPy is a simple, cross-platform GUI automation library for Python. It includes functions for controlling the keyboard and mouse, finding colors and bitmaps on-screen, and displaying alerts.
 
+<br>
 
 ## Project Flow:
 - Find Hand Landmarks.
@@ -49,6 +54,9 @@ pip install <module name>
 - Click mouse if distance are short. [distance to be specified]
 - Show frame rate.
 - Display the project i.e run virtual mouse. 
+
+
+<br>
 
 ## Project Approach:
 1. Image Resize :
@@ -71,37 +79,50 @@ pip install <module name>
 	When there is index and middle finger both up and distance between them is significantly low then is left click
 ![Project approach](https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/4341098e-684b-4178-8acf-ffe36a5600e9)
 
+<br>
+
 ## Features :
 * Can Move Your Cursor corresponding to your Index finger movement
 * Can track your hand in real-time
 
+<br>
 
-### Working :
+## Working :
 * This project is a use case of Hand Tracking technology. 
 * As soon as the user shows up his hand in the camera the application detects it & draws a bounding box around the hand.
 * If User shows only Index Finger than he/she can Move Cursor.
 * To Click, User's Index and Middle finger both should be Up simultaneously. 
  
+<br>
 
 ## Hand Landmarks:
 With the use of mediapipe python library we can detect face or hand landmarks based on our uses.
 
 ![Hand Landmarks](https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/196ced94-7fa9-434b-9b99-6b495e3f88d2)
 
+<br>
 
 ## Hand Tracking:
 ![Hand tracking run 1](https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/aeb4ed74-cfe1-43a0-a6c1-9209567dece7)
 
+<br>
 
 ## Packages Used:
 ![List of packages used](https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/ec918469-3aaa-4d54-b820-5e95e4ab8e5a)
+
+<br>
 
 ## Future Scope:
 - Further, we plan to add more features such as enlarging and shrinking windows, closing window, etc. by using the palm and multiple fingers.
 - We can also open the browser or any drives (C:/D:/E: etc) with help of hand gestures instead of moving of cursor.
 - This system could also be useful in presentations and to reduce work space.
 
+<br>
 
+## Resources:
+<a href="https://www.youtube.com/watch?v=8gPONnGIPgw" target="_blank">YouTube : Murtaza's Workshop - Robotics and AI</a> <br>
+<a href="https://www.computervision.zone/courses/ai-virtual-mouse/" target="_blank">Computer Vision Zone Website : Murtaza's Workshop - Robotics and AI</a>
 
-
-
+<br>
+<br>
+<h1 align="center">THANK YOU </h1>
