@@ -76,8 +76,8 @@ pip install <module name>
 <br />-Mouse movement:
 	When the algorithm detects only index finger up then mouse moves according to the speed of hand movement.
 <br />-Left click:
-	When there is index and middle finger both up and distance between them is significantly low then is left click
-![Project approach](https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/4341098e-684b-4178-8acf-ffe36a5600e9)
+	When there is index and middle finger both up and distance between them is significantly low then is left click![Project approach](https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/3817be58-ea1e-46b2-87cb-8ac5ccb2e24e)
+
 
 <br>
 
@@ -98,17 +98,17 @@ pip install <module name>
 ## Hand Landmarks:
 With the use of mediapipe python library we can detect face or hand landmarks based on our uses.
 
-![Hand Landmarks](https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/196ced94-7fa9-434b-9b99-6b495e3f88d2)
+![Hand Landmarks](https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/3c541758-bdf3-4ba7-927b-d6c912920c42)
 
 <br>
 
 ## Hand Tracking:
-![Hand tracking run 1](https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/aeb4ed74-cfe1-43a0-a6c1-9209567dece7)
+![Hand tracking run 1](https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/d33514f7-fd95-403c-93cf-03ddb8f7ad42)
 
 <br>
 
 ## Packages Used:
-![List of packages used](https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/ec918469-3aaa-4d54-b820-5e95e4ab8e5a)
+![List of packages used](https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/475491a8-6b6f-44e7-95aa-315993fe5f44)
 
 <br>
 
