@@ -76,7 +76,9 @@ pip install <module name>
 <br />-Mouse movement:
 	When the algorithm detects only index finger up then mouse moves according to the speed of hand movement.
 <br />-Left click:
-	When there is index and middle finger both up and distance between them is significantly low then is left click![Project approach](https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/3817be58-ea1e-46b2-87cb-8ac5ccb2e24e)
+	When there is index and middle finger both up and distance between them is significantly low then is left click
+	
+	![Project approach](https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/3817be58-ea1e-46b2-87cb-8ac5ccb2e24e)
 
 
 <br>
