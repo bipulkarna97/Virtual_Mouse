@@ -1,7 +1,7 @@
 # Virtual_Mouse
 An AI-based application which let us control the mouse cursor by moving finger in Air in front of Camera of device.
-
- ![final](https://user-images.githubusercontent.com/78357575/123516002-93aed580-d6b7-11eb-835b-ac7b284850d5.jpg)
+ 
+ <img src="https://user-images.githubusercontent.com/78357575/123516002-93aed580-d6b7-11eb-835b-ac7b284850d5.jpg" width="500" height="500">
 
 <br>
 
@@ -78,9 +78,9 @@ pip install <module name>
 <br />-Left click:
 	When there is index and middle finger both up and distance between them is significantly low then is left click
 	
-	![Project approach](https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/3817be58-ea1e-46b2-87cb-8ac5ccb2e24e)
+<img src="https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/3817be58-ea1e-46b2-87cb-8ac5ccb2e24e" width="270" height="500">
 
-
+<br>
 <br>
 
 ## Features :
@@ -99,19 +99,15 @@ pip install <module name>
 
 ## Hand Landmarks:
 With the use of mediapipe python library we can detect face or hand landmarks based on our uses.
-
-![Hand Landmarks](https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/3c541758-bdf3-4ba7-927b-d6c912920c42)
-
+<img src="https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/3c541758-bdf3-4ba7-927b-d6c912920c42)" width="600" height="340">
 <br>
 
 ## Hand Tracking:
-![Hand tracking run 1](https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/d33514f7-fd95-403c-93cf-03ddb8f7ad42)
-
+<img src="https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/d33514f7-fd95-403c-93cf-03ddb8f7ad42" width="600" height="340">
 <br>
 
 ## Packages Used:
-![List of packages used](https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/475491a8-6b6f-44e7-95aa-315993fe5f44)
-
+<img src="https://github.com/bipulkarna97/Virtual_Mouse/assets/126940912/475491a8-6b6f-44e7-95aa-315993fe5f44" width="600" height="340">
 <br>
 
 ## Future Scope:
